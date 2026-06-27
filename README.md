@@ -39,4 +39,16 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
