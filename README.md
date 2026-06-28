@@ -42,6 +42,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -50,5 +51,10 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
