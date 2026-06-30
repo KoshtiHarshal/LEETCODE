@@ -8,6 +8,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
