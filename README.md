@@ -67,4 +67,5 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
