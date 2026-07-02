@@ -41,6 +41,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to keep track of my DSA journey.
 | ------- |
 | [0175-combine-two-tables](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0176-second-highest-salary) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
