@@ -32,6 +32,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## String Matching
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
