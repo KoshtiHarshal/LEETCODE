@@ -32,6 +32,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -52,6 +53,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
