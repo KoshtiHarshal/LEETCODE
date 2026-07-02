@@ -42,12 +42,14 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
