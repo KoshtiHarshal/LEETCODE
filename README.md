@@ -47,11 +47,13 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0242-valid-anagram) |
 ## Matrix
