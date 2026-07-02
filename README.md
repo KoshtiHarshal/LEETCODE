@@ -50,6 +50,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 | [0001-two-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
