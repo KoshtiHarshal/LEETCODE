@@ -74,6 +74,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
