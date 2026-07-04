@@ -4,6 +4,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
