@@ -62,6 +62,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [1046-last-stone-weight](https://github.com/KoshtiHarshal/LEETCODE/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/KoshtiHarshal/LEETCODE/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
