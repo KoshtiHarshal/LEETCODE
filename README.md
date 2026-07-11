@@ -42,6 +42,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0572-subtree-of-another-tree](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0572-subtree-of-another-tree) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
