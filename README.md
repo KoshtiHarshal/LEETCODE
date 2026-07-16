@@ -61,6 +61,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to keep track of my DSA journey.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/KoshtiHarshal/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
